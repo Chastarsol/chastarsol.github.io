@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+根据佛教经典，释迦牟尼本人就达到了涅槃，从痛苦中完全解脱。而在这之后他就被称为“佛陀”，意为“觉悟者”。接着，佛陀一生前往各地普传佛法，希望让所有人离苦得乐。佛陀的教诲一言以蔽之：痛苦来自欲望；要从痛苦中解脱，就要放下欲望；而要放下欲望，就必须训练心智，体验事物的本质……
